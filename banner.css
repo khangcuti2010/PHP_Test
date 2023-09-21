@@ -1,0 +1,16 @@
+.banner {
+    position: relative;
+    width: 1920px;
+    height: 391px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;/* Cách nhau ngang hàng */
+    align-items: center;
+}
+
+.banner .image {
+    width: 619px;
+    position: absolute;
+    height: 351px;
+    object-fit: cover;
+}

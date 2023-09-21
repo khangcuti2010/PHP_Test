@@ -1,0 +1,65 @@
+.text-wrapper-news-event{
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #1e1e1e;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 100px;
+}
+.news-event{
+    position: relative;
+    margin-top: 100px;
+}
+.news-box{
+    text-align:center;
+    padding-bottom:15px;
+    position: relative;
+    background-color:#f8f8f8;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-bottom:1px solid #eee;
+}
+.news-box img{
+    overflow:hidden;
+}
+.news-box a.title{
+
+    display:inline-block;
+    color: #1E1E1E;
+    text-align: justify;
+    font-family: Quicksand;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.news-box p.content{
+    color: #999;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display:inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.news-box a.category{
+    color:#eb4800;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.news-box p.price{
+    color: #999;
+    text-align: justify;
+    font-family: Quicksand;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

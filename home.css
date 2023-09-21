@@ -1,0 +1,311 @@
+.HOME {
+    position: relative;
+    width: 1920px;
+    height: 718px;
+    background-color: #ffffff;
+}
+
+.HOME .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 135px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.HOME .overlap {
+    position: absolute;
+    width: 570px;
+    height: 53px;
+    top: 16px;
+    left: 556px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #cacaca;
+}
+
+.HOME .vector-wrapper {
+    position: absolute;
+    width: 93px;
+    height: 45px;
+    top: 4px;
+    left: 473px;
+    background-color: #b7212d;
+    border-radius: 5px;
+}
+
+.HOME .vector {
+    position: absolute;
+    width: 26px;
+    height: 27px;
+    top: 9px;
+    left: 34px;
+}
+
+.HOME .text-wrapper {
+    position: absolute;
+    top: 14px;
+    left: 22px;
+    font-family: "Quicksand-Medium", Helvetica;
+    font-weight: 500;
+    color: #acacac;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .img {
+    position: absolute;
+    width: 199px;
+    height: 62px;
+    top: 36px;
+    left: 277px;
+}
+
+.HOME .div {
+    position: absolute;
+    top: 90px;
+    left: 589px;
+    font-family: Quicksand;
+    color: #909090;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.HOME .text-wrapper-2 {
+    position: absolute;
+    top: 90px;
+    left: 875px;
+    font-family: "Quicksand";
+    font-weight: 500;
+    color: #909090;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .check {
+    position: absolute;
+    width: 218px;
+    height: 24px;
+    top: 94px;
+    left: 1137px;
+    font-family: "Quicksand";
+    font-weight: 500;
+    color: #909090;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .vector-2 {
+    position: absolute;
+    width: 26px;
+    height: 35px;
+    top: 84px;
+    left: 556px;
+}
+
+.HOME .vector-3 {
+    position: absolute;
+    width: 42px;
+    height: 31px;
+    top: 86px;
+    left: 821px;
+}
+
+.HOME .vector-4 {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 88px;
+    left: 1101px;
+}
+
+.HOME .overlap-2 {
+    position: absolute;
+    width: 49px;
+    height: 38px;
+    top: 48px;
+    left: 1548px;
+}
+
+.HOME .vector-5 {
+    position: absolute;
+    width: 33px;
+    height: 30px;
+    top: 8px;
+    left: 0;
+}
+
+.HOME .vector-6 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 0;
+    left: 24px;
+}
+
+.HOME .vector-7 {
+    position: absolute;
+    width: 27px;
+    height: 29px;
+    top: 56px;
+    left: 1616px;
+}
+
+.HOME .vector-8 {
+    position: absolute;
+    width: 27px;
+    height: 30px;
+    top: 56px;
+    left: 1486px;
+}
+
+.HOME .overlap-3 {
+    position: absolute;
+    width: 1920px;
+    height: 563px;
+    top: 135px;
+    left: 0;
+}
+
+.HOME .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 114px;
+    top: 0;
+    left: 0;
+    background-color: #b7212d;
+}
+
+.HOME .slide {
+    background: lightgray 50% / cover no-repeat;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 1374px;
+    height: 491px;
+    top: 207px;
+    bottom: 28px;
+    left: 277px;
+    right: 277px;
+    object-fit: cover;
+}
+
+.HOME .text-wrapper-3 {
+    position: absolute;
+    top: 25px;
+    left: 500px;
+    bottom: 73px;
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-4 {
+    position: absolute;
+    top: 25px;
+    left: 723px;
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-5 {
+    position: absolute;
+    top: 25px;
+    left: 952px;
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-6 {
+    position: absolute;
+    top: 25px;
+    left: 1139px;
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-7 {
+    position: absolute;
+    top: 25px;
+    left: 1344px;
+    font-family: "Quicksand-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .vector-9 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 31px;
+    left: 931px;
+}
+
+.HOME .vector-10 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 31px;
+    left: 1123px;
+}
+
+.HOME .vector-11 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 31px;
+    left: 1325px;
+}
+
+.HOME .vector-12 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 31px;
+    left: 701px;
+}
+
+.HOME .vector-13 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 31px;
+    left: 462px;
+}
+.flash-message {
+    background-color: #00FF00;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+}

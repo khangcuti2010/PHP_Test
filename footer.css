@@ -1,0 +1,126 @@
+.footer{
+    position: relative;
+    background: #FFF;
+    width: 1920px;
+    height: 430px;
+}
+.logo{
+    position: absolute;
+    margin-top: 52px;
+    margin-bottom: 292px;
+    margin-left: 277px;
+    width: 272px;
+    height: 86px;
+}
+.icon-image{
+    width: 14px;
+    height: 14px;
+}
+.contact{
+    position: absolute;
+    width: 467px;
+    height: 150px;
+    top: 159px;
+    bottom: 122px;
+    left: 326px;
+    font-family: "Quicksand-Medium", Helvetica;
+    font-weight: 500;
+    color: #1e1e1e;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 50px;
+}
+.icon-contact{
+    position: absolute;
+    width: 33px;
+    height: 150px;
+    top: 169px;
+    bottom: 228px;
+    left: 277px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.policy{
+    position: absolute;
+    top: 65px;
+    left: 986px;
+    color: #B7212D;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.policy-content{
+    position: absolute;
+    top: 111px;
+    left: 984px;
+    color: #1E1E1E;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    width: 200px;
+    height: 192px;
+}
+.icon-policy{
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+.payment{
+    position: absolute;
+    top: 62px;
+    right: 319px;
+    color: #B7212D;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.credit-card{
+    position: absolute;
+    top: 111px;
+    right: 277px;
+    width: 339px;
+    height: 122px;
+}
+.bct{
+    position: absolute;
+    bottom: 138px;
+    right: 440px;
+    width: 149px;
+    height: 57px;
+}
+.bct2{
+    position: absolute;
+    bottom: 138px;
+    right: 290px;
+    width: 125px;
+    height: 57px
+}
+.last{
+    position: absolute;
+    top: 377px;
+    width: 100%;
+    height: 53px;
+    background: #B7212D;
+    color: #FFF;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 53px;
+    text-align: center;
+}
+.last.p{
+    color: #FFF;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
